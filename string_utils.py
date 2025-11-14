@@ -1,5 +1,4 @@
 def split_before_each_uppercases(formula):
-    def split_before_each_uppercases(formula):
     if not isinstance(formula, str):
         formula = str(formula)
     if formula == "":
